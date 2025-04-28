@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 3</title>
+</head>
+<body>
+    <h1>Minha próxima viagem:</h1>
+    <br>
+    <ol>
+        <li>
+            Escolher destino
+        <ul>
+            <li>Pesquisar opções</li></h4>
+            <li>Ver clima</li></h4>
+            <li>Ver documentação</li></h4>
+        </ul>
+        </li></h4>
+        <li>
+            Reservar hospedagem
+            <ul>
+                <li>Comparar preços</li></h4>
+                <li>Ler avaliações</li></h4>
+            </ul>
+        </li></h4>
+        <li>
+            Fazer as malas
+            <ul>
+                <li>Roupas adequadas</li></h4>
+                <li>Produtos de higiene</li></h4>
+                <li>Documentos</li>
+            </ul>
+        </li></h4>
+    </ol>
+</body>
+</html>
